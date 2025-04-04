@@ -1,52 +1,75 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Agarwal</h1>
-<h3 align="center">AI Enthusiast,Fast Learner</h3>
+<h1 align="center">🚀 Hi, I'm Ayush Agarwal</h1>
+<h3 align="center">AI Developer | Open Source Advocate | Tech Community Leader</h3>
 
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Covid-19 Tracker**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **My Portfolio**
-
-- 📫 How to reach me **AyushCoding100@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-   
-
+<p align="center">
+  <a href="https://github.com/thecuriousteam/PyLibLog"><img src="https://img.shields.io/badge/Maintained-PyLibLog-success?style=flat-square"></a>
+  <a href="https://github.com/ayush-agarwal-190?tab=repositories"><img src="https://img.shields.io/badge/Projects-15+-blue?style=flat-square"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
+---
 
-<br/>
+## 🛠️ Technical Arsenal
 
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://github.com/ayush-agarwal-190/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://https://youtube.com/channel/UCf6bIYgOnoyRZqhtK-vRVcg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,spring,js,nodejs,mongodb,git,github,aws,docker&theme=dark&perline=6" alt="Tech Stack"/>
 </p>
 
+---
+
+## 🌟 Highlight Reel
+
+### 🏆 Leadership Experience
+**Lead Maintainer @ [PyLibLog](https://github.com/thecuriousteam/PyLibLog)**  
+<img align="right" src="https://gh-card.dev/repos/thecuriousteam/PyLibLog.svg" width="40%">
+
+- Orchestrated development of Python logging library from concept to production
+- Mentored 30+ contributors in open-source best practices
+- Processed 70+ PRs with 100% code review coverage
+- Established CI/CD pipeline and documentation standards
+
+### 🔥 Current Project
+**COVID-19 Tracker Dashboard**  
+`React` `Spring Boot` `Python` `AWS`
+- Real-time pandemic data visualization
+- Predictive analytics using machine learning
+- Cloud-native deployment architecture
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-agarwal-190&show_icons=true&theme=radical&include_all_commits=true">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-agarwal-190&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-agarwal-190&theme=react-dark&hide_border=true&area=true">
+</p>
+
+---
+
+## 🎯 Life Philosophy
+
+> "Code is poetry, but documentation is the translation that makes it universal."  
+> "Building solutions > Solving problems"
+
+---
+
+## 🌐 Let's Collaborate!
+
+<p align="center">
+  <a href="mailto:AyushCoding100@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="50"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50"></a>
+  <a href="https://youtube.com/channel/UCf6bIYgOnoyRZqhtK-vRVcg"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="50"></a>
+  <a href="https://github.com/ayush-agarwal-190"><img src="https://img.icons8.com/color/96/000000/github--v1.png" width="50"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush-agarwal-190&label=Profile+Views&color=blueviolet&style=flat-square">
+</p>
+
+![Footer](https://github.com/ayush-agarwal-190/ayush-agarwal-190/blob/output/github-contribution-grid-snake.svg)
