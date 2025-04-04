@@ -64,7 +64,7 @@
 <p align="center">
   <a href="mailto:AyushCoding100@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="50"></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50"></a>
-  <a href="https://youtube.com/channel/UCf6bIYgOnoyRZqhtK-vRVcg"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="50"></a>
+  <a href="https://youtube.com/"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="50"></a>
   <a href="https://github.com/ayush-agarwal-190"><img src="https://img.icons8.com/color/96/000000/github--v1.png" width="50"></a>
 </p>
 
